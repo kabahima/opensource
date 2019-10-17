@@ -44,3 +44,4 @@ I propose that we dont use a CSS framework for a better learning experience - J 
 - [ ] Invite other communities to contribute
 - [ ] Have a Hacktoberfest Meet and Greet
 - [ ] Convert to React.js
+#how do i make my contributions
